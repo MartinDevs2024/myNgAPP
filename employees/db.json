@@ -1,0 +1,61 @@
+{
+   "Users": [
+      {
+         "id": 1,
+         "firstName": "Virat",
+         "lastName": "Kohli",
+         "email": "virat@gmail.com",
+         "mobile": "98567888367",
+        "salary": "1500000"
+      },
+      {
+        "id": 2,
+        "firstName": "Rohit",
+        "lastName": "Sharma",
+        "email": "Rohit@gmail.com",
+        "mobile": "98567888367",
+       "salary": "1500000"
+     },
+     {
+      "id": 3,
+      "firstName": "MS",
+      "lastName": "Dohni",
+      "email": "virat@gmail.com",
+      "mobile": "98567888367",
+     "salary": "1500000"
+   },
+   {
+    "id": 4,
+    "firstName": "Jassi",
+    "lastName": "Kohli",
+    "email": "virat@gmail.com",
+    "mobile": "98567888367",
+   "salary": "1500000"
+ },
+ {
+  "id": 4,
+  "firstName": "Virat",
+  "lastName": "Kohli",
+  "email": "virat@gmail.com",
+  "mobile": "98567888367",
+ "salary": "1500000"
+}, {
+  "id": 6,
+  "firstName": "Virat",
+  "lastName": "Kohli",
+  "email": "virat@gmail.com",
+  "mobile": "98567888367",
+ "salary": "1500000"
+}, {
+  "id": 7,
+  "firstName": "Virat",
+  "lastName": "Kohli",
+  "email": "virat@gmail.com",
+  "mobile": "98567888367",
+ "salary": "1500000"
+}
+
+
+   ]
+
+}
